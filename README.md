@@ -1,4 +1,4 @@
-# Wellar Mobile Auth
+# Wisebase Mobile Auth
 
 Standalone FastAPI service for native Flutter Google Sign-In exchange.
 
